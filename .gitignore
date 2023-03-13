@@ -1,2 +1,8 @@
-epoll_client
-epoll_server
+*un~
+*~
+build
+client/build
+server/build
+*.swp
+*.orig
+tags
